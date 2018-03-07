@@ -1,0 +1,26 @@
+li{
+  color:yellow
+
+}
+
+p{
+  color:blue
+
+}
+
+.példa{
+  color:yellow
+}
+.példa2{
+  color:black
+}
+
+#content-1 p{
+  background-image: url("majom.jpg");
+  background size: auto;
+  margin: 10px;
+  padding: 10px;
+  border: 4px double blue;
+
+
+}
